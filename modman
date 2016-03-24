@@ -1,0 +1,7 @@
+app/code/lways/PayPalPlus app/code/lways/PayPalPlus
+app/design/adminhtml/default/default/template/paypalplus/payment app/design/adminhtml/default/default/template/paypalplus/payment
+app/design/frontend/base/default app/design/frontend/base/default
+app/etc/modules app/etc/modules
+app/locale/de_DE app/locale/de_DE
+lib/PayPal lib/PayPal
+skin/frontend/base/default skin/frontend/base/default

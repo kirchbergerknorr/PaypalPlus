@@ -1,0 +1,15 @@
+{
+    "name": "kirchbergerknorr/paypalplus",
+    "description": "Paypal Plus",
+    "keywords": ["magento", "paypal", "payment"],
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "authors": [
+        {
+            "name": "Oliver Sokola",
+            "email": "oliver.sokola@kirchbergerknorr.de"
+        }
+    ],
+    "require": {
+    }
+}
