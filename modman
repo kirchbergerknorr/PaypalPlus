@@ -1,4 +1,4 @@
-app/code/lways/PayPalPlus app/code/lways/PayPalPlus
+app/code/Iways/PayPalPlus app/code/Iways/PayPalPlus
 app/design/adminhtml/default/default/template/paypalplus/payment app/design/adminhtml/default/default/template/paypalplus/payment
 app/design/frontend/base/default app/design/frontend/base/default
 app/etc/modules/* app/etc/modules
